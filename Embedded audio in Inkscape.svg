@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66668 190.49999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   sodipodi:docname="Embedded audio in Inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns0="http://sozi.baierouge.fr">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.41539583"
+     inkscape:cx="519.98596"
+     inkscape:cy="284.0664"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="900"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Background Layer"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Image Layer" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text Layer" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Header Layer">
+    <text
+       xml:space="preserve"
+       style="font-size:9.525px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#000000;stroke:#030303;stroke-width:0.0529167"
+       x="169.15428"
+       y="36.308594"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.0529167"
+         x="169.15428"
+         y="36.308594">Embedded MP3 audio in Inkscape</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.525px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.5061;fill:#000000;stroke:#030303;stroke-width:0.0529167"
+       x="136.32111"
+       y="102.67775"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.0529167"
+         x="136.32111"
+         y="102.67775" /></text>
+    <g
+       id="g3"
+       transform="translate(169.33333,92.228425)">
+      <rect
+         x="-100"
+         y="-50"
+         width="200"
+         height="100"
+         stroke="none"
+         fill="#aaaaaa"
+         id="rect3">
+        <ns0:audio
+           ns0:type="audio/mp3"
+           ns0:src="/home/dickho/V/My Sozi video &amp; audio experiment/My-recent SOZI audio/AudioTest.mp3"
+           ns0:loop="false"
+           ns0:controls="true" />
+      </rect>
+    </g>
+  </g>
+</svg>
