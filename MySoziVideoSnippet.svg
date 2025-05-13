@@ -26,12 +26,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.40515981"
-     inkscape:cx="660.2333"
-     inkscape:cy="478.8234"
-     inkscape:window-width="1440"
-     inkscape:window-height="863"
-     inkscape:window-x="212"
-     inkscape:window-y="0"
+     inkscape:cx="688.61717"
+     inkscape:cy="328.26553"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="900"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4" />
   <defs
@@ -59,7 +59,7 @@
        aria-label="My CNY Video Snippet" />
     <g
        id="g1"
-       transform="matrix(0.20958816,0,0,0.20958816,169.33333,86.935303)">
+       transform="matrix(0.16882279,0,0,0.16882279,169.33333,80.012573)">
       <rect
          x="-426"
          y="-240"
@@ -70,7 +70,7 @@
          id="rect1">
         <ns0:video
            ns0:type="video/mp4"
-           ns0:src="/home/dickho/V/My Sozi video &amp; audio experiment/My-recent SOZI video/CNYvideoSnippet.mp4"
+           ns0:src="/home/dickho/V/My Sozi video &amp; audio experiment/My-recent SOZI video/CNYvideoSnippetHandbrake.mp4"
            ns0:loop="false"
            ns0:controls="true" />
       </rect>
